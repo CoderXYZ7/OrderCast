@@ -157,7 +157,8 @@ The Frontend is an Apache server running on the Raspberry Pi, allowing managers 
 
 ## Devices
 
->[!WARNING] Work in progress
+>[!WARNING] 
+Work in progress
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
