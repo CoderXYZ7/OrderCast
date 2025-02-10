@@ -155,5 +155,9 @@ Example Response:
 ### 3. Frontend (Frontend)
 The Frontend is an Apache server running on the Raspberry Pi, allowing managers to directly access and manage the database without passing through the API. The interface is built for ease of use and direct manipulation of orders.
 
+## Devices
+
+>[!WARNING] Work in progress
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
